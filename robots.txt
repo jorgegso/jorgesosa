@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://jorgegso.github.io/blog_web/sitemap.xml
+Sitemap: https://jorgegso.github.io/my_blog/sitemap.xml

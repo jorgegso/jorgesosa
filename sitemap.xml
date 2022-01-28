@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://jorgegso.github.io/blog_web/</loc>
+        <loc>https://jorgegso.github.io/my_blog/</loc>
     </url>
     <url>
-        <loc>https://jorgegso.github.io/blog_web/blog/</loc>
+        <loc>https://jorgegso.github.io/my_blog/blog/</loc>
     </url>
     <url>
-        <loc>https://jorgegso.github.io/blog_web/blog/1-osi-model/</loc>
+        <loc>https://jorgegso.github.io/my_blog/blog/1-osi-model/</loc>
         <lastmod>2022-01-29</lastmod>
     </url>
     <url>
-        <loc>https://jorgegso.github.io/blog_web/contact/</loc>
+        <loc>https://jorgegso.github.io/my_blog/contact/</loc>
     </url>
 </urlset>
